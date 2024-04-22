@@ -1,0 +1,232 @@
+{
+    "id": 830392337662554100,
+    "full_text": "aka Judge Roberts and 9thCircuit Court in big ass trouble. @nsaidian @jallman971 @EternalRiteWing @AynRiedel98 https://t.co/uItSaHrGL2",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "nsaidian",
+                "name": "\ud83d\udc83NS\ud83d\udc83\ud83c\uddfa\ud83c\uddf8\ud83d\udd4a",
+                "id": 546488925,
+                "id_str": "546488925",
+                "indices": [
+                    59,
+                    68
+                ]
+            },
+            {
+                "screen_name": "EternalRiteWing",
+                "name": "\u271dSteph \ud83c\uddfa\ud83c\uddf8 \ud83d\udd4a\ud83c\udf1e\ud83c\udfd5\ud83c\udfc3\u200d\u2640\ufe0f\ud83e\uddf6\ud83e\uddf5\ud83d\uddfd\ud83c\udf35\u26f0",
+                "id": 43232530,
+                "id_str": "43232530",
+                "indices": [
+                    81,
+                    97
+                ]
+            },
+            {
+                "screen_name": "AynRiedel98",
+                "name": "Peace99",
+                "id": 741334289376116700,
+                "id_str": "741334289376116736",
+                "indices": [
+                    98,
+                    110
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/uItSaHrGL2",
+                "expanded_url": "https://twitter.com/CNBCnow/status/830174089767690243",
+                "display_url": "twitter.com/CNBCnow/status\u2026",
+                "indices": [
+                    111,
+                    134
+                ]
+            }
+        ]
+    },
+    "user": {
+        "id": 20435808,
+        "id_str": "20435808",
+        "name": "Anna Teresa Arnold",
+        "screen_name": "HomerWhite",
+        "location": "",
+        "description": "Free America! Stop corruption! Peace to All! (raise white doves - homers) 'Oh that I had wings of a dove! For then I would fly away & be at rest!' Psalm 55:6",
+        "url": "http://t.co/gT86aAsub3",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "http://t.co/gT86aAsub3",
+                        "expanded_url": "http://page.is/anna-teresa-arnold",
+                        "display_url": "page.is/anna-teresa-ar\u2026",
+                        "indices": [
+                            0,
+                            22
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 22683,
+        "friends_count": 23553,
+        "listed_count": 640,
+        "created_at": "Mon Feb 09 13:48:54 +0000 2009",
+        "favourites_count": 74462,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 749013,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "1C2A40",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1210147776/dove_honor_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1210147776/dove_honor_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/20435808/1361625304",
+        "profile_link_color": "4250AD",
+        "profile_sidebar_border_color": "8D9FE6",
+        "profile_sidebar_fill_color": "B5ABD1",
+        "profile_text_color": "663B12",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "is_quote_status": true,
+    "quoted_status_id": 830174089767690200,
+    "quoted_status_id_str": "830174089767690243",
+    "quoted_status_permalink": {
+        "url": "https://t.co/uItSaHrGL2",
+        "expanded": "https://twitter.com/CNBCnow/status/830174089767690243",
+        "display": "twitter.com/CNBCnow/status\u2026"
+    },
+    "quoted_status": {
+        "created_at": "Fri Feb 10 21:58:21 +0000 2017",
+        "id": 830174089767690200,
+        "id_str": "830174089767690243",
+        "full_text": "BREAKING: White House doesn't plan to take stay of Trump's immigration ban to Supreme Court, plans to defend its merits  - @NBCNews",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            131
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "NBCNews",
+                    "name": "NBC News",
+                    "id": 14173315,
+                    "id_str": "14173315",
+                    "indices": [
+                        123,
+                        131
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 26574283,
+            "id_str": "26574283",
+            "name": "CNBC Now",
+            "screen_name": "CNBCnow",
+            "location": "",
+            "description": "Breaking news, real-time market updates & more from @CNBC.",
+            "url": "https://t.co/xNSucapdhO",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/xNSucapdhO",
+                            "expanded_url": "http://cnbc.com",
+                            "display_url": "cnbc.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 783048,
+            "friends_count": 54,
+            "listed_count": 10520,
+            "created_at": "Wed Mar 25 19:48:57 +0000 2009",
+            "favourites_count": 2,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": true,
+            "statuses_count": 43584,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "010C13",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1025457837026275329/F51xxiuX_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1025457837026275329/F51xxiuX_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/26574283/1533323170",
+            "profile_link_color": "FF0000",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "CCCCCC",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 322,
+        "favorite_count": 286,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    "retweet_count": 4,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+}
